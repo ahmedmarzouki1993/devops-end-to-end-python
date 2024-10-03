@@ -1,5 +1,5 @@
 # Ignore the venv folder
-/venv/
+venv/
 
 # Ignore specific Dockerfiles
 Dockerfile.frontend
